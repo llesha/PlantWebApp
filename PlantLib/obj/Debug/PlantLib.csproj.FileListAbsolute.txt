@@ -1,0 +1,6 @@
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\bin\Debug\PlantLib.dll
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\bin\Debug\PlantLib.pdb
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\obj\Debug\PlantLib.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\obj\Debug\PlantLib.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\obj\Debug\PlantLib.dll
+C:\Users\Алексей\source\repos\PleaseWorkPlant\PlantLib\obj\Debug\PlantLib.pdb
